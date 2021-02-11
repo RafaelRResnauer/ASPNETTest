@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETTest", "ASPNETTest\ASPNETTest.csproj", "{5BBC8136-C5B1-43B8-9E0B-779D46EF920A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETTest", "ASPNETTest\ASPNETTest.csproj", "{5BBC8136-C5B1-43B8-9E0B-779D46EF920A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITest", "APITest\APITest.csproj", "{3D8B388E-DE27-4E1C-B0D1-D754839054F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5BBC8136-C5B1-43B8-9E0B-779D46EF920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BBC8136-C5B1-43B8-9E0B-779D46EF920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BBC8136-C5B1-43B8-9E0B-779D46EF920A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8B388E-DE27-4E1C-B0D1-D754839054F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8B388E-DE27-4E1C-B0D1-D754839054F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8B388E-DE27-4E1C-B0D1-D754839054F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8B388E-DE27-4E1C-B0D1-D754839054F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

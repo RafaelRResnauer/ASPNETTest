@@ -12,7 +12,5 @@ namespace ASPNETTest.Models
         [Display(Name = "Description")]
         [Required(ErrorMessage = "The description is necessary")]
         public string Description { get; set; }
-        public List<Product> Products { get; set; }
-
     }
 }
